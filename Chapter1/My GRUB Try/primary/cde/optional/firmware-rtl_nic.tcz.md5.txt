@@ -1,0 +1,1 @@
+e14e74e5fb35bfe1bf3cddd26594704c  firmware-rtl_nic.tcz

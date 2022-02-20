@@ -1,0 +1,1 @@
+885c067ddd79ffaadda263c21cc32ab3  firmware-iwlwifi.tcz
